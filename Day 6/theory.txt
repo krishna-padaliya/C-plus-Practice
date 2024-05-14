@@ -1,0 +1,12 @@
+What is inheritance..???
+it is process to create more then one class,
+the rules is if we create first class and we wants to use it property in another at that time you have to use inheritance
+
+first class is know as base/parent/super class
+another class is know as derived/child/sub class
+
+
+types of inheritance
+single inheritance = base class -derived class
+
+	
